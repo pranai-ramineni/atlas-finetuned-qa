@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Atlas: Few-shot Learning with Retrieval Augmented Language Models
 
 This repository contains pre-trained models, corpora, indices, and code for pre-training, finetuning, retrieving and evaluating for the paper [Atlas: Few-shot Learning with Retrieval Augmented Language Models](https://arxiv.org/pdf/2208.03299.pdf)
@@ -1050,3 +1051,7 @@ The majority of the Atlas code is licensed under [CC-BY-NC](./LICENSE), however 
 ### Data License:
 
 The wikipedia-derived data used in the repository, such as the corpora and indices available from `download_corpus.py` and `download_index.py` are licensed according to [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/). 
+=======
+# atlas-finetuned-qa
+Fine-tuning Meta's Atlas Models to enhance question answering capabilities, using a custom dataset from a 'Speech and Language Processing' textbook.
+>>>>>>> 9d57ad67ea941d3ce04713e21832804cbe78a968
